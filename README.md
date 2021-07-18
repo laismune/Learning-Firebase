@@ -1,4 +1,4 @@
-# learning-firebase-javascript
+# Learning Firebase with javascript
 Com o intuito de conhecer o Firebase e suas ferramentas, realizei este minicurso de Firebase para Javascript oferecido gratuitamente por Eduardo Silva no Youtube. No mais, fui introduzida a alguns Frameworks como Bootstrap e SweetAlert.
 https://www.youtube.com/watch?v=vaCZYztN-2U&list=PL6u1VNwqZdJbJGQLQl6sq9aJFHrVkTR7q
 
