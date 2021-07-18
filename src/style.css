@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito:400,700");
+
+body {
+  font-family: Nunito, sans-serif;
+}
+
+.login-logo img{
+  width: 70%;
+}
+
+.page {
+  overflow-x: hidden;
+}
+
+.sidebar {
+  display:none;
+  min-height: 100vh;
+  margin-left: 0;
+  width: 15rem;
+}
+
+.show{
+  display: inline-block;
+}
+
+
+.sidebar h1 {
+  padding: 0.875rem 1.25rem;
+  font-size: 1.2rem;
+}
+
+.page-content {
+  min-width: 0;
+  width: 100%;
+}
+
